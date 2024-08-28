@@ -1,4 +1,4 @@
-# HackerNews 
+# Hacker News 
 
 * Description: This is an ios app for HackerNews feed by YCombinator by using SwiftUI and Hacknews API.
 * Technologies Used: Swift, SwiftUI, Hackernews API, WebKit
